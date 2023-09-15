@@ -1,6 +1,6 @@
 # v2.0.0-alpha.14 (Tue Jul 04 2023)
 
-### Release Notes
+### Release Notes t
 
 #### Disable styles panel button on mobile when using the laser tool. ([#1704](https://github.com/tldraw/tldraw/pull/1704))
 
